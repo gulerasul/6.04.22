@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJGRSLTC17SSMor/arRQExsQ+5vDsROPf3PF7Fc3YpFtVA3dK1F9FcA+QBUgFie8YNf751b4fLxFnA/MzqbyYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tu699evkp\\Desktop\\homework\\product\\Json\\Json\\Json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tu699evkp\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\tu699evkp\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\tu699evkp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\tu699evkp\\.nuget\\packages\\stripe.net\\39.103.0\\stripe.net.39.103.0.nupkg.sha512",
+    "C:\\Users\\tu699evkp\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\tu699evkp\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\tu699evkp\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\tu699evkp\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\tu699evkp\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\tu699evkp\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\tu699evkp\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
